@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Animemchik"
+	],
+	"copyright": "Copyright © 2024, Animemchik",
+	"description": "A console game Engine.",
+	"license": "MIT",
+	"name": "platinum-vm",
+	"targetName": "Platinum language VM"
+}

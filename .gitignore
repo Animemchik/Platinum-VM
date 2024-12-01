@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/platinum-vm
+platinum-vm.so
+platinum-vm.dylib
+platinum-vm.dll
+platinum-vm.a
+platinum-vm.lib
+platinum-vm-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
